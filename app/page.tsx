@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <>
     <Nav />
-    <Hero/>
+    
     <Features/>
     <Faqs/>
     <Plans/>
